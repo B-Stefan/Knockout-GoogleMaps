@@ -5,7 +5,6 @@
     "Stefan Bieliauskas"
   ],
   "description": "A Google-Maps binding for knockout",
-  "main": "src/ko.GoogleMaps.js",
   "keywords": [
     "Google",
     "Maps",
@@ -14,7 +13,7 @@
   ],
   "license": "MIT",
   "ignore": [
-    "demo",
+    "demo/**/.*",
     "**/.*",
     "node_modules",
     "bower_components",
