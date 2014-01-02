@@ -4,8 +4,9 @@ Knockout Google-Maps Binding
 
 This repository contains a custom google maps Binding
 
-*. Install via bower: `bower install knockout-googleMaps`
-*. Or Download repository and use the dist/knockout-GoogleMaps module
+* Install via bower: `bower install knockout-googleMaps`
+* Or Download repository and use the dist/knockout-GoogleMaps.js module
+
 
 Example
 ========================
