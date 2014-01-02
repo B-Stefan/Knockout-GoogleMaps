@@ -13,7 +13,7 @@ Example
 
 Config require.js
 -------------
-    ```javascript
+```javascript
      requirejs.config({
                 baseUrl: "",
                 paths:{
@@ -23,9 +23,9 @@ Config require.js
                     'knockout-GoogleMap' : 'knockout-GoogleMap'
                 }
             });
-    ```
+```
 Binding a Map
 -------------
-    ```html
+```html
         <div id="map" data-bind="googleMap: {address: 'Berlin, Germany', zoom: 13}"></div>
-    ```
+```
