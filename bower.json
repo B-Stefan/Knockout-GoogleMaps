@@ -15,6 +15,7 @@
   "license": "MIT",
   "directory": "dist/**.*",
   "ignore": [
+    "demo",
     "**/.*",
     "node_modules",
     "bower_components",
