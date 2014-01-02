@@ -13,6 +13,7 @@
     "Binding"
   ],
   "license": "MIT",
+  "directory": "dist/**.*",
   "ignore": [
     "**/.*",
     "node_modules",
