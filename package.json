@@ -2,7 +2,7 @@
   "name": "ko.GoogleMaps",
   "version": "0.0.1",
   "description": "Knockout Google-Maps-Binding",
-  "main": "demo/index.html",
+  "main": "dist/knockout-GoogleMap.js",
   "dependencies": {
     "grunt": "~0.4.2",
     "grunt-bower-task": "~0.3.4",
@@ -15,6 +15,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Stefan Bielauskas",
   "license": "BSD-2-Clause"
 }

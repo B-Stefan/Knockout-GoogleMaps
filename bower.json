@@ -13,7 +13,6 @@
     "Binding"
   ],
   "license": "MIT",
-  "directory": "dist/**.*",
   "ignore": [
     "demo",
     "**/.*",
