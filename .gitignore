@@ -27,7 +27,7 @@ what
 *.sublime-workspace
 
 # Output folder
-/dist
+/public
 
 # Numerous always-ignore extensions
 *~
