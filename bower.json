@@ -1,0 +1,27 @@
+{
+  "name": "ko.GoogleMaps",
+  "version": "0.0.1",
+  "authors": [
+    "Stefan Bieliauskas"
+  ],
+  "description": "A Google-Maps binding for knockout",
+  "main": "src/ko.GoogleMaps.js",
+  "keywords": [
+    "Google",
+    "Maps",
+    "Knockout",
+    "Binding"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs-plugins": "~1.0.2",
+    "knockout": "bowerjs/knockout#~3.0.0"
+  }
+}
