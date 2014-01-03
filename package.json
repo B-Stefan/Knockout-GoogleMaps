@@ -1,6 +1,6 @@
 {
-  "name": "ko.GoogleMaps",
-  "version": "0.0.1",
+  "name": "Knockout-GoogleMaps",
+  "version": "0.0.4",
   "description": "Knockout Google-Maps-Binding",
   "main": "dist/knockout-GoogleMap.js",
   "dependencies": {
