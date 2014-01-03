@@ -11,6 +11,10 @@
     "Knockout",
     "Binding"
   ],
+  "main": "knockout-GoogleMaps.js",
+    "scripts": [
+        "dist/knockout-GoogleMaps.js"
+    ],
   "license": "MIT",
   "ignore": [
     "**/.*",
